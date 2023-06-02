@@ -41,13 +41,15 @@ while True:
     instructores_ordenados = sorted(instructores.keys())
     for instructores in instructores_ordenados:
         print(instructores)
+    else:
+     print("opcion invalida ")
+
 
    
  
      
 
-else:
-    print("opcion invalida ")
+
 
 
      
